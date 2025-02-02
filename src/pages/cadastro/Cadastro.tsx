@@ -88,7 +88,7 @@ function Cadastro() {
             />
           </div>
           <div className="flex flex-col w-full">
-            <label htmlFor="usuario">Usuario</label>
+            <label htmlFor="usuario">Usuário</label>
             <input
               type="text"
               id="usuario"
@@ -124,7 +124,7 @@ function Cadastro() {
             />
           </div>
           <div className="flex flex-col w-full">
-            <label htmlFor="confirmarSenha">Confirmar Senha</label>
+            <label htmlFor="confirmarSenha">Confirmar senha</label>
             <input
               type="password"
               id="confirmarSenha"
